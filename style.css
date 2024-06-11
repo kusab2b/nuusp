@@ -1,0 +1,176 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    background-color:#0000001A ;
+}
+
+@font-face {
+    font-family: roob;
+    src: url(Roboto-Light.ttf);
+}
+.container{
+    width: 1920px;
+    height: 6110px;
+    border: 1px solid red;
+    background-color:#ffffff;
+    font-family: roob;
+    border:none ;
+}
+
+.group{
+    width: 25px;
+    height: 25px;
+}
+
+.header{
+    width: 1320px;
+    height: 113px;
+    border: 1px solid;
+   border: none;
+}
+
+.logo{
+    width: 180px;
+    height: 34px;
+   display: flex;
+    
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+   
+}
+
+.account1{
+    margin-top: -30px;
+    display: flex;
+    margin-left: 1110px;
+    column-gap: 5px;
+}
+.account2{
+    margin-top: -25px;
+    display: flex;
+    position: absolute;
+    margin-left: 1230px;
+    column-gap: 5px;
+}
+
+.box1{
+    height: 25px;}
+.box2{
+    height: 25px;
+}
+
+hr{
+   margin-top: 30px;
+   border: 1px solid #E3E3E3;
+}
+
+.menu{
+    display: flex;
+    column-gap: 63px;
+}
+
+.top-main{
+    width: 1920px;
+    height: 847px;
+    background-color:#1E28320D ;
+    display: flex;
+    justify-content: center;
+}
+.product{
+    width: 1226px;
+    height: 562px;
+    border: 1px solid;
+    margin-top: 200px;
+    position: absolute;
+    display: flex;
+    border: none;
+}
+.shoop{
+    width: 223px;
+    height: 72px;
+    margin-top: 80px;
+    background-color: black;
+    border: none;
+    color: #ffffff;
+    font-size: 29px;
+    margin-left: -655px;
+    margin-top: 400px;
+    padding-left: 40px;
+    
+}
+.shopcont{
+    font-size: 30px;
+    margin-left: -350px;
+    margin-top: 160px;
+    
+}
+.brands{
+    font-size: 74px;
+
+}
+.svd{
+position: absolute;
+display: flex;
+margin-top: -35px;
+margin-left: -15px;
+    
+}
+
+.producimage{
+    width: 442px;
+    height: 562px;
+    margin-left: auto;
+    
+}
+.veect{
+    width: 195px;
+    height: 262px;
+    margin-left: 1730px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.fram{
+    width:132.34px ;
+    height: 66.61px;
+    position: absolute;
+    margin-right: 1780px;
+    margin-top: 630px;
+}
+.allbrand{
+    display: flex;
+    justify-content: center;
+   
+   
+}
+.category{
+   width: 1320px; 
+   height: 648px;
+   
+    
+}
+.pc18{
+    width: 648px;
+    height: 648px;
+}
+.pic1{
+    width: 312px;
+    height: 312px;
+}
+
+.pic11{
+    width: 312px;
+    height: 312px;
+}
+.pic1{
+    width: 312px;
+    height: 312px;
+}
+.pic1{
+    width: 312px;
+    height: 312px;
+}
